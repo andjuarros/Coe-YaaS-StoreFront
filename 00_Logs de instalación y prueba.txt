@@ -1,0 +1,299 @@
+| | | | +-- optionator@0.5.0
+| | | | | +-- deep-is@0.1.3
+| | | | | +-- fast-levenshtein@1.0.7
+| | | | | +-- levn@0.2.5
+| | | | | +-- prelude-ls@1.1.2
+| | | | | `-- type-check@0.3.2
+| | | | `-- source-map@0.2.0
+| | | +-- esprima@2.5.0
+| | | +-- fileset@0.2.1
+| | | | +-- glob@5.0.15
+| | | | `-- minimatch@2.0.10
+| | | +-- handlebars@4.0.6
+| | | | +-- source-map@0.4.4
+| | | | `-- uglify-js@2.7.5
+| | | |   +-- async@0.2.10
+| | | |   +-- source-map@0.5.6
+| | | |   `-- yargs@3.10.0
+| | | |     `-- cliui@2.1.0
+| | | |       +-- center-align@0.1.3
+| | | |       | +-- align-text@0.1.4
+| | | |       | | `-- longest@1.0.1
+| | | |       | `-- lazy-cache@1.0.4
+| | | |       `-- right-align@0.1.3
+| | | +-- js-yaml@3.7.0
+| | | | +-- argparse@1.0.9
+| | | | `-- esprima@2.7.3
+| | | +-- nopt@3.0.6
+| | | +-- supports-color@3.2.3
+| | | | `-- has-flag@1.0.0
+| | | +-- which@1.2.12
+| | | `-- wordwrap@1.0.0
+| | +-- lodash@2.4.2
+| | `-- optimist@0.6.1
+| |   `-- wordwrap@0.0.3
+| `-- minimatch@0.3.0
++-- karma-firefox-launcher@0.1.7
++-- karma-html2js-preprocessor@0.1.0
++-- karma-jasmine@0.1.6
++-- karma-junit-reporter@0.2.2
+| `-- xmlbuilder@0.4.2
++-- karma-phantomjs-launcher@0.1.4
+| `-- phantomjs@1.9.20
+|   +-- request@2.67.0
+|   | +-- aws-sign2@0.6.0
+|   | +-- combined-stream@1.0.5
+|   | | `-- delayed-stream@1.0.0
+|   | +-- forever-agent@0.6.1
+|   | +-- form-data@1.0.1
+|   | | `-- async@2.1.4
+|   | |   `-- lodash@4.17.4
+|   | +-- hawk@3.1.3
+|   | | +-- boom@2.10.1
+|   | | +-- cryptiles@2.0.5
+|   | | +-- hoek@2.16.3
+|   | | `-- sntp@1.0.9
+|   | +-- http-signature@1.1.1
+|   | | `-- assert-plus@0.2.0
+|   | +-- oauth-sign@0.8.2
+|   | +-- qs@5.2.1
+|   | `-- tough-cookie@2.2.2
+|   `-- which@1.2.12
++-- karma-script-launcher@0.1.0
++-- load-grunt-tasks@0.2.1
+| `-- globule@0.1.0
+|   `-- lodash@1.0.2
++-- phantomcss@0.4.5
++-- phantomjs@2.1.7
+| +-- extract-zip@1.5.0
+| | +-- concat-stream@1.5.0
+| | | +-- readable-stream@2.0.6
+| | | | `-- isarray@1.0.0
+| | | `-- typedarray@0.0.6
+| | +-- debug@0.7.4
+| | +-- mkdirp@0.5.0
+| | `-- yauzl@2.4.1
+| |   `-- fd-slicer@1.0.1
+| |     `-- pend@1.2.0
+| +-- fs-extra@0.26.7
+| | +-- graceful-fs@4.1.11
+| | +-- jsonfile@2.4.0
+| | | `-- graceful-fs@4.1.11
+| | `-- klaw@1.3.1
+| |   `-- graceful-fs@4.1.11
+| +-- hasha@2.2.0
+| | +-- is-stream@1.1.0
+| | `-- pinkie-promise@2.0.1
+| |   `-- pinkie@2.0.4
+| +-- kew@0.7.0
+| +-- progress@1.1.8
+| +-- request@2.67.0
+| | +-- aws-sign2@0.6.0
+| | +-- bl@1.0.3
+| | | `-- readable-stream@2.0.6
+| | |   `-- isarray@1.0.0
+| | +-- caseless@0.11.0
+| | +-- combined-stream@1.0.5
+| | | `-- delayed-stream@1.0.0
+| | +-- forever-agent@0.6.1
+| | +-- form-data@1.0.1
+| | | `-- async@2.1.4
+| | |   `-- lodash@4.17.4
+| | +-- har-validator@2.0.6
+| | | +-- chalk@1.1.3
+| | | | +-- ansi-styles@2.2.1
+| | | | +-- has-ansi@2.0.0
+| | | | | `-- ansi-regex@2.1.1
+| | | | +-- strip-ansi@3.0.1
+| | | | `-- supports-color@2.0.0
+| | | +-- commander@2.9.0
+| | | | `-- graceful-readlink@1.0.1
+| | | `-- is-my-json-valid@2.15.0
+| | |   +-- generate-function@2.0.0
+| | |   +-- generate-object-property@1.2.0
+| | |   | `-- is-property@1.0.2
+| | |   +-- jsonpointer@4.0.1
+| | |   `-- xtend@4.0.1
+| | +-- hawk@3.1.3
+| | | +-- boom@2.10.1
+| | | +-- cryptiles@2.0.5
+| | | +-- hoek@2.16.3
+| | | `-- sntp@1.0.9
+| | +-- http-signature@1.1.1
+| | | +-- assert-plus@0.2.0
+| | | +-- jsprim@1.3.1
+| | | | +-- extsprintf@1.0.2
+| | | | +-- json-schema@0.2.3
+| | | | `-- verror@1.3.6
+| | | `-- sshpk@1.10.2
+| | |   +-- asn1@0.2.3
+| | |   +-- assert-plus@1.0.0
+| | |   +-- bcrypt-pbkdf@1.0.0
+| | |   +-- dashdash@1.14.1
+| | |   | `-- assert-plus@1.0.0
+| | |   +-- ecc-jsbn@0.1.1
+| | |   +-- getpass@0.1.6
+| | |   | `-- assert-plus@1.0.0
+| | |   +-- jodid25519@1.0.2
+| | |   +-- jsbn@0.1.0
+| | |   `-- tweetnacl@0.14.5
+| | +-- is-typedarray@1.0.0
+| | +-- isstream@0.1.2
+| | +-- oauth-sign@0.8.2
+| | +-- qs@5.2.1
+| | +-- stringstream@0.0.5
+| | `-- tough-cookie@2.2.2
+| +-- request-progress@2.0.1
+| | `-- throttleit@1.0.0
+| `-- which@1.2.12
+|   `-- isexe@1.1.2
++-- phantomjs-polyfill@0.0.2
++-- phantomjs-prebuilt@2.1.14
+| +-- es6-promise@4.0.5
+| +-- fs-extra@1.0.0
+| | `-- graceful-fs@4.1.11
+| +-- request@2.79.0
+| | +-- aws-sign2@0.6.0
+| | +-- aws4@1.5.0
+| | +-- combined-stream@1.0.5
+| | | `-- delayed-stream@1.0.0
+| | +-- forever-agent@0.6.1
+| | +-- form-data@2.1.2
+| | | `-- asynckit@0.4.0
+| | +-- hawk@3.1.3
+| | | +-- boom@2.10.1
+| | | +-- cryptiles@2.0.5
+| | | +-- hoek@2.16.3
+| | | `-- sntp@1.0.9
+| | +-- http-signature@1.1.1
+| | | `-- assert-plus@0.2.0
+| | +-- oauth-sign@0.8.2
+| | +-- qs@6.3.0
+| | `-- uuid@3.0.1
+| `-- which@1.2.12
++-- protractor@1.8.0
+| +-- accessibility-developer-tools@2.6.0
+| +-- adm-zip@0.4.4
+| +-- glob@3.2.11
+| | `-- minimatch@0.3.0
+| +-- html-entities@1.1.3
+| +-- jasmine@2.1.1
+| | +-- glob@3.2.11
+| | | `-- minimatch@0.3.0
+| | `-- jasmine-core@2.1.3
+| +-- jasminewd@1.1.0
+| +-- jasminewd2@0.0.2
+| +-- lodash@2.4.2
+| +-- minijasminenode@1.1.1
+| +-- optimist@0.6.1
+| +-- q@1.0.0
+| +-- saucelabs@0.1.1
+| +-- selenium-webdriver@2.44.0
+| | +-- tmp@0.0.24
+| | `-- xml2js@0.4.4
+| |   +-- sax@0.6.1
+| |   `-- xmlbuilder@8.2.2
+| `-- source-map-support@0.2.10
+|   `-- source-map@0.1.32
++-- protractor-screenshot-reporter@0.0.5
+| `-- mkdirp@0.3.5
++-- request@2.36.0
+| +-- aws-sign2@0.5.0
+| +-- forever-agent@0.5.2
+| +-- form-data@0.1.4
+| | `-- combined-stream@0.0.7
+| |   `-- delayed-stream@0.0.5
+| +-- hawk@1.0.0
+| | +-- boom@0.4.2
+| | +-- cryptiles@0.2.2
+| | +-- hoek@0.9.1
+| | `-- sntp@0.2.4
+| +-- http-signature@0.10.1
+| | +-- asn1@0.1.11
+| | +-- assert-plus@0.1.5
+| | `-- ctype@0.5.3
+| +-- json-stringify-safe@5.0.1
+| +-- mime@1.2.11
+| +-- node-uuid@1.4.7
+| +-- oauth-sign@0.3.0
+| +-- tough-cookie@2.3.2
+| | `-- punycode@1.4.1
+| `-- tunnel-agent@0.4.3
++-- resemblejs@1.3.1
+`-- underscore@1.8.3
+
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.0.0 (node_modules\ch
+okidar\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@
+1.0.17: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"
+})
+npm WARN caas-demo-store@0.0.1 No repository field.
+npm WARN caas-demo-store@0.0.1 license should be a valid SPDX license expression
+
+
+C:\Users\a.juarros.zarate\OneDrive - Accenture\Yaas\GitHub\Coe-YaaS-StoreFront>
+C:\Users\a.juarros.zarate\OneDrive - Accenture\Yaas\GitHub\Coe-YaaS-StoreFront>n
+pm start
+
+> caas-demo-store@0.0.1 start C:\Users\a.juarros.zarate\OneDrive - Accenture\Yaa
+s\GitHub\Coe-YaaS-StoreFront
+> node node_modules/grunt-cli/bin/grunt singleProject:prod
+
+>> Local Npm module "grunt-parallel" not found. Is it installed?
+
+Running "singleProject:prod" (singleProject) task
+(node:16552) DeprecationWarning: os.tmpDir() is deprecated. Use os.tmpdir() inst
+ead.
+
+Running "replace:projectId" (replace) task
+
+Running "replace:clientId" (replace) task
+
+Running "replace:redirectURI" (replace) task
+
+Running "replace:useHttps" (replace) task
+
+Running "replace:prod" (replace) task
+
+Running "jshint:all" (jshint) task
+>> 142 files lint free.
+
+Running "copy:translations" (copy) task
+Copied 2 files
+
+Running "json-minify:translations" (json-minify) task
+File "./public/js/app/shared/i18n/lang/lang_de.json":
+>> 23.334 KiB - 33.3% = 15.566 KiB
+File "./public/js/app/shared/i18n/lang/lang_en.json":
+>> 21.488 KiB - 36.5% = 13.641 KiB
+
+Total compressed: 2 files
+>> 44.822 KiB - 34.8% = 29.207 KiB
+
+Running "less:dev" (less) task
+File public/css/app/style.css created: 233.23 kB ? 233.23 kB
+
+Running "concurrent:singleProject" (concurrent) task
+>> Local Npm module "grunt-parallel" not found. Is it installed?
+>> Local Npm module "grunt-parallel" not found. Is it installed?
+
+Running "express:singleTenant" (express) task
+(node:11712) DeprecationWarning: os.tmpDir() is deprecated. Use os.tmpdir() inst
+ead.
+
+Running "watch" task
+Waiting...
+Running "watch" task
+Waiting...OK
+
+(node:10424) DeprecationWarning: os.tmpDir() is deprecated. Use os.tmpdir() inst
+ead.
+>> Local Npm module "grunt-parallel" not found. Is it installed?
+
+Running "express-server:singleTenant:C:\Users\AJUARR~1.ZAR\AppData\Local\Temp\ex
+press117023-11712-vqx0lh.4dq1qyqfr\singleTenant.server" (express-server) task
+(node:7744) DeprecationWarning: os.tmpDir() is deprecated. Use os.tmpdir() inste
+ad.
+Web server started on port:9000, hostname: 0.0.0.0 [pid: 7744]
+
+Running "express-keepalive" task
